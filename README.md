@@ -1,6 +1,6 @@
 # Machine Learning Primer
-ML primer workshop @ Future Labs AI Summit
-10am, October 30
+ML primer workshop @ Future Labs AI Summit.
+10am, October 30, 2017
 
 Ross Fadely, AI Lead, [Insight Data Science](http://insightdata.ai)
 
