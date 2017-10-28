@@ -9,7 +9,7 @@ This 45 minute workshop is meant to give an overview of the important aspects of
 
 # Usage
 ```
-git@github.com:InsightDataScience/Intro_to_ML-FutureLabs.git
+git clone git@github.com:InsightDataScience/Intro_to_ML-FutureLabs.git
 ```
 
 or [download the tarball](https://github.com/InsightDataScience/Intro_to_ML-FutureLabs/archive/master.zip).  
